@@ -15,3 +15,6 @@
 - `DataFrame` API <https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html>
 - `read_csv()` function <https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html#pandas.read_csv>
 - `read_excel()` function <https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html#pandas.read_excel>
+
+# DIGITS
+- Object detection <https://github.com/NVIDIA/DIGITS/blob/digits-5.0/digits/extensions/data/objectDetection/README.md#custom-class-mappings>
