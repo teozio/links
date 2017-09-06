@@ -1,5 +1,10 @@
 # links
 
+# Tools
+- Jupyter tips and tricks - <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
+- Jupyter extensions - <https://github.com/ipython-contrib/jupyter_contrib_nbextensions>
+
+
 # Time series predictions 
 - How to do time series prediction using RNNs, TensorFlow and Cloud ML Engine <https://medium.com/google-cloud/how-to-do-time-series-prediction-using-rnns-and-tensorflow-and-cloud-ml-engine-2ad2eeb189e8>
 - Time series prediction using RNNs, with TensorFlow and Cloud ML Engine <https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/blogs/timeseries/rnn_cloudmle.ipynb>
@@ -16,6 +21,11 @@
 - <https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/>
 - Time Series Forecasting with Python 7-Day Mini-Course <https://machinelearningmastery.com/time-series-forecasting-python-mini-course/>
 - Stateful LSTM in Keras - <http://philipperemy.github.io/keras-stateful-lstm/>
+- Forecasting principle and practice - <https://www.otexts.org/fpp>
+
+## Anomaly detection 
+- LSTM for anomaly detections <https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf>
+- Collective Anomaly Detection based on Long Short Term Memory Recurrent Neural Network <https://arxiv.org/pdf/1703.09752.pdf>
 
 # Viz
 - http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
@@ -35,3 +45,7 @@
 
 # DIGITS
 - Object detection <https://github.com/NVIDIA/DIGITS/blob/digits-5.0/digits/extensions/data/objectDetection/README.md#custom-class-mappings>
+
+# Machine learning 
+- ML awesome list - <https://github.com/sdukshis/awesome-ml>
+
