@@ -1,5 +1,8 @@
 # links
 
+# Basics 
+- Ordinary Least Square - <http://www.statsmodels.org/dev/examples/notebooks/generated/ols.html>
+
 # Tools
 - Jupyter tips and tricks - <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
 - Jupyter extensions - <https://github.com/ipython-contrib/jupyter_contrib_nbextensions>
@@ -22,6 +25,7 @@
 - Time Series Forecasting with Python 7-Day Mini-Course <https://machinelearningmastery.com/time-series-forecasting-python-mini-course/>
 - Stateful LSTM in Keras - <http://philipperemy.github.io/keras-stateful-lstm/>
 - Forecasting principle and practice - <https://www.otexts.org/fpp>
+- Time Series Filters in Statsmodels - <http://www.statsmodels.org/dev/examples/notebooks/generated/tsa_filters.html>
 
 ## Anomaly detection 
 - LSTM for anomaly detections <https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf>
