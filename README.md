@@ -46,6 +46,7 @@
 ## Statsmodels
 - <http://www.statsmodels.org/stable/index.html>
 - Time Series analysis `tsa` - <http://www.statsmodels.org/stable/tsa.html>
+- Examples - <http://www.statsmodels.org/dev/examples/index.html>
 
 # DIGITS
 - Object detection <https://github.com/NVIDIA/DIGITS/blob/digits-5.0/digits/extensions/data/objectDetection/README.md#custom-class-mappings>
