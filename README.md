@@ -2,6 +2,7 @@
 
 # Basics 
 - Ordinary Least Square - <http://www.statsmodels.org/dev/examples/notebooks/generated/ols.html>
+- Linear least square method - <https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.lstsq.html>
 
 # Tools
 - Jupyter tips and tricks - <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
