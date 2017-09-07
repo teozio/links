@@ -15,6 +15,7 @@
 - TensorFlow Tutorial for Time Series Prediction <https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series>
 - Deep Learning for Time-Series Analysis <https://arxiv.org/pdf/1701.01887.pdf>
 - Forecasting Time-Series data with Prophet <http://pythondata.com/forecasting-time-series-data-with-prophet-part-1/>
+- Prophet: forecasting at scale (Facebook Research blog) - <https://research.fb.com/prophet-forecasting-at-scale/>
 - Forecasting at Scale <https://facebookincubator.github.io/prophet/static/prophet_paper_20170113.pdf>
 - Prophet: Automatic Forecasting Procedure <https://github.com/facebookincubator/prophet>
 - Prophet homepage - <https://facebookincubator.github.io/prophet/>
