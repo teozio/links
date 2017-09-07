@@ -8,6 +8,7 @@
 - Introduction to SciPy - <http://www.scipy-lectures.org/intro/>
 - Jupyter tips and tricks - <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
 - Jupyter extensions - <https://github.com/ipython-contrib/jupyter_contrib_nbextensions>
+- Curve fitting - <http://cars9.uchicago.edu/software/python/lmfit/builtin_models.html>
 
 
 # Time series predictions 
