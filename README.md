@@ -5,6 +5,7 @@
 - Linear least square method - <https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.lstsq.html>
 
 # Tools
+- Introduction to SciPy - <http://www.scipy-lectures.org/intro/>
 - Jupyter tips and tricks - <https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/>
 - Jupyter extensions - <https://github.com/ipython-contrib/jupyter_contrib_nbextensions>
 
