@@ -58,3 +58,6 @@
 # Machine learning 
 - ML awesome list - <https://github.com/sdukshis/awesome-ml>
 
+# Image trasnformation
+- A Learned Representation For Artistic Style - <https://arxiv.org/abs/1610.07629>
+
