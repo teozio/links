@@ -61,3 +61,7 @@
 # Image trasnformation
 - A Learned Representation For Artistic Style - <https://arxiv.org/abs/1610.07629>
 
+# Systems
+- <http://guanghan.info/blog/en/my-works/building-our-personal-deep-learning-rig-gtx-1080-ubuntu-16-04-cuda-8-0rc-cudnn-7-tensorflowmxnetcaffedarknet/>
+
+
