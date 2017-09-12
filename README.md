@@ -55,6 +55,7 @@
 # DIGITS
 - Object detection <https://github.com/NVIDIA/DIGITS/blob/digits-5.0/digits/extensions/data/objectDetection/README.md#custom-class-mappings>
 - Signal Detection Using Deep Learning <https://blog.kickview.com/signal-detection-using-deep-learning/>
+- Image segmentation <https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/>
 
 # Machine learning 
 - ML awesome list - <https://github.com/sdukshis/awesome-ml>
