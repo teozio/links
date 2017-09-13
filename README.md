@@ -30,6 +30,7 @@
 - Stateful LSTM in Keras - <http://philipperemy.github.io/keras-stateful-lstm/>
 - Forecasting principle and practice - <https://www.otexts.org/fpp>
 - Time Series Filters in Statsmodels - <http://www.statsmodels.org/dev/examples/notebooks/generated/tsa_filters.html>
+- ARMA <http://www.statsmodels.org/dev/examples/notebooks/generated/tsa_arma_0.html>
 
 ## Anomaly detection 
 - LSTM for anomaly detections <https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf>
