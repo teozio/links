@@ -3,6 +3,7 @@
 # Basics 
 - Ordinary Least Square - <http://www.statsmodels.org/dev/examples/notebooks/generated/ols.html>
 - Linear least square method - <https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.lstsq.html>
+- NIST Engineering Statistics Handbook <http://www.itl.nist.gov/div898/handbook/index.htm> with the exploratory data analysis e.g. Autocorelation <http://www.itl.nist.gov/div898/handbook/eda/section3/autocopl.htm>
 
 # Tools
 - Introduction to SciPy - <http://www.scipy-lectures.org/intro/>
@@ -47,6 +48,7 @@
 - `DataFrame` API <https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html>
 - `read_csv()` function <https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html#pandas.read_csv>
 - `read_excel()` function <https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html#pandas.read_excel>
+- Visualization <https://pandas.pydata.org/pandas-docs/stable/visualization.html#plot-formatting>
 
 ## Statsmodels
 - <http://www.statsmodels.org/stable/index.html>
@@ -68,4 +70,18 @@
 # Systems
 - <http://guanghan.info/blog/en/my-works/building-our-personal-deep-learning-rig-gtx-1080-ubuntu-16-04-cuda-8-0rc-cudnn-7-tensorflowmxnetcaffedarknet/>
 
+# Networks 
+- SSD <https://github.com/balancap/SSD-Tensorflow/blob/master/notebooks/ssd_notebook.ipynb>
+
+# Other 
+- Terga streams <https://developer.ridgerun.com/wiki/index.php?title=Gstreamer_pipelines_for_Tegra_X1#nvcamerasrc_2>
+- Video stream on Jetson <https://devtalk.nvidia.com/default/topic/934354/typical-approaches-to-test-camera-functionality-for-l4t-r23-2-on-jetson-tx1/>
+
+# Caffe
+- Installation <http://caffe.berkeleyvision.org/installation.html>
+- Caffe LeNet on MNIST example <https://github.com/BVLC/caffe/tree/master/examples/mnist>
+- NVIDIA Caffe <https://github.com/NVIDIA/caffe/releases>
+
+# Caffe2
+- Tutorials <https://caffe2.ai/docs/tutorials.html#null__new-to-deep-learning>
 
