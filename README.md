@@ -88,3 +88,5 @@
 # Caffe2
 - Tutorials <https://caffe2.ai/docs/tutorials.html#null__new-to-deep-learning>
 
+# Books
+- Neural Networks and Statistical Learning <http://www.springer.com/us/book/9781447155706>
