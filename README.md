@@ -37,6 +37,7 @@
 - Anomaly detector in Keras <https://github.com/jramapuram/LSTM_Anomaly_Detector>
 - ARIMA in R <https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials>
 - ARIMA in Python <http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/>
+- Statistical forecasting: notes on regression and time series analysis by Robert Nau - <http://people.duke.edu/~rnau/411home.htm>
 
 ## Anomaly detection 
 - LSTM for anomaly detections <https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf>
