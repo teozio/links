@@ -35,6 +35,7 @@
 - Autoencoders in Keras for fraud detection <https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd> and the Python note
 - Building autoencoder <https://blog.keras.io/building-autoencoders-in-keras.html>
 - Anomaly detector in Keras <https://github.com/jramapuram/LSTM_Anomaly_Detector>
+- ARIMA in R <https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials>
 
 ## Anomaly detection 
 - LSTM for anomaly detections <https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf>
