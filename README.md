@@ -32,8 +32,6 @@
 - Forecasting principle and practice - <https://www.otexts.org/fpp>
 - Time Series Filters in Statsmodels - <http://www.statsmodels.org/dev/examples/notebooks/generated/tsa_filters.html>
 - ARMA <http://www.statsmodels.org/dev/examples/notebooks/generated/tsa_arma_0.html>
-- Autoencoders in Keras for fraud detection <https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd> and the Python note
-- Building autoencoder <https://blog.keras.io/building-autoencoders-in-keras.html>
 - Anomaly detector in Keras <https://github.com/jramapuram/LSTM_Anomaly_Detector>
 - ARIMA in R <https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials>
 - ARIMA in Python <http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/>
@@ -67,6 +65,7 @@
 - Signal Detection Using Deep Learning <https://blog.kickview.com/signal-detection-using-deep-learning/>
 - Image segmentation <https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/>
 - TensorFlow and DIGITS <https://github.com/NVIDIA/DIGITS/blob/master/docs/GettingStartedTensorflow.md/>
+- Autoencoder on MNIST <https://github.com/NVIDIA/DIGITS/blob/master/examples/autoencoder/README.md>
 
 # Machine learning 
 - ML awesome list - <https://github.com/sdukshis/awesome-ml>
@@ -94,3 +93,9 @@
 
 # Books
 - Neural Networks and Statistical Learning <http://www.springer.com/us/book/9781447155706>
+
+# Autoencoders
+- DIGITS <https://github.com/NVIDIA/DIGITS/blob/master/examples/autoencoder/README.md>
+- Autoencoders in Keras for fraud detection <https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd> 
+- Building autoencoder in Keras <https://blog.keras.io/building-autoencoders-in-keras.html>
+
