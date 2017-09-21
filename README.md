@@ -99,3 +99,7 @@
 - Autoencoders in Keras for fraud detection <https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd> 
 - Building autoencoder in Keras <https://blog.keras.io/building-autoencoders-in-keras.html>
 
+# Natural Language Processing
+- Summaization of article <https://github.com/vgel/summarize.py>
+- Word2vec in TensorFlow <https://www.tensorflow.org/tutorials/word2vec>
+- Gensim <https://radimrehurek.com/gensim/tutorial.html>
