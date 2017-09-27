@@ -106,3 +106,6 @@
 
 # Blogs 
 - Sentiance <http://www.sentiance.com/blog/>
+
+# Misc
+- <https://cs231n.github.io/neural-networks-3/#baby>
