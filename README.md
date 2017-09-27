@@ -103,3 +103,6 @@
 - Summaization of article <https://github.com/vgel/summarize.py>
 - Word2vec in TensorFlow <https://www.tensorflow.org/tutorials/word2vec>
 - Gensim <https://radimrehurek.com/gensim/tutorial.html>
+
+# Blogs 
+- Sentiance <http://www.sentiance.com/blog/>
