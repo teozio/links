@@ -93,6 +93,7 @@
 
 # Books
 - Neural Networks and Statistical Learning <http://www.springer.com/us/book/9781447155706>
+- Deep Learning <http://www.deeplearningbook.org/>
 
 # Autoencoders
 - DIGITS <https://github.com/NVIDIA/DIGITS/blob/master/examples/autoencoder/README.md>
