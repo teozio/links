@@ -110,5 +110,6 @@
 
 # Misc
 - <https://cs231n.github.io/neural-networks-3/#baby>
+- <http://karpathy.github.io/2015/05/21/rnn-effectiveness/>
 - <http://vict0rsch.github.io/resources/>
 
