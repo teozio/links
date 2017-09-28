@@ -110,3 +110,5 @@
 
 # Misc
 - <https://cs231n.github.io/neural-networks-3/#baby>
+- <http://vict0rsch.github.io/resources/>
+
